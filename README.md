@@ -100,7 +100,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Use Case | Description |
 |----------|------------|
-| [Cost Estimation](https://calculator.guardclaw.dev/) | Estimate OpenClaw setup cost before running agents to avoid unexpected spend |
+| [Cost Estimation](usecases/openclaw-cost-estimation.md) | Estimate OpenClaw setup cost before running agents to avoid unexpected spend |
 
 ## 🤝 Contributing
 
